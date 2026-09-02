@@ -15,6 +15,11 @@ I am an undergraduate student in Electronic and Electrical Engineering at Sungky
 
 - **[Jul. 2026]** Received the Silver Award at the 4th Sungkyunkwan University AI Autonomous Driving Competition.
 
-{% include_relative _includes/publications.md %}
+## Awards
 
+- **Silver Award**, 4th Sungkyunkwan University AI Autonomous Driving Competition, Jul. 2026
+
+{% comment %}
+{% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
+{% endcomment %}
