@@ -9,7 +9,9 @@ I am an undergraduate student in Electronic and Electrical Engineering at Sungky
 ## Education
 
 - [Mar. 2021 - Present] B.S. in Electronic and Electrical Engineering, Sungkyunkwan University
+{% comment %}
   - GPA: **4.36 / 4.50**
+{% endcomment %}
 
 ## Research Interests
 
